@@ -1,0 +1,8 @@
+{
+    "excluded_recipients": [
+      "test@gmail.com"
+    ],
+    "csv_basename": "mbox_export_analysis",
+    "mbox_basename": "mbox_export"
+  }
+  
