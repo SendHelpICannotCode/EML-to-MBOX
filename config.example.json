@@ -1,0 +1,7 @@
+{
+  "excluded_recipients": [
+    "user@example.com"
+  ],
+  "csv_basename": "mbox_export_analysis",
+  "mbox_basename": "mbox_export"
+}

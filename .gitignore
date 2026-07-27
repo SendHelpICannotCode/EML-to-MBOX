@@ -2,3 +2,6 @@
 *.mbox
 *.csv
 *.xlsx
+
+# Local configuration may contain personal email addresses
+config.json
