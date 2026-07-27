@@ -1,4 +1,4 @@
-# Outputs
-.mbox
-.csv
-.xlsx
+# Generated mail exports and analyses
+*.mbox
+*.csv
+*.xlsx
